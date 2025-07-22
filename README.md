@@ -31,4 +31,4 @@ The hero section includes a circular profile image with a clean and modern layou
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Vani6125/Vani_Portfolio.git
+   git clone https://github.com/Vani6125/My_Portfolio.git
